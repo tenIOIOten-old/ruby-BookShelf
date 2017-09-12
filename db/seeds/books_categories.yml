@@ -1,0 +1,28 @@
+relation:
+  -
+    book: 1
+    category: 1
+  -
+    book: 2
+    category: 1
+  -
+    book: 3
+    category: 1
+  -
+    book: 4
+    category: 1
+  -
+    book: 5
+    category: 1
+  -
+    book: 6
+    category: 1
+  -
+    book: 7
+    category: 1
+  -
+    book: 8
+    category: 1
+  -
+    book: 9
+    category: 1
